@@ -1,0 +1,47 @@
+
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+
+# Visual Studio Code
+.vscode
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+debug/
+bld/
+[Bb]in/
+[Oo]bj/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+
+bin/Debug/net6.0/
+obj/Debug/net6.0/
+.vs/
+.vs/apiOperadores/DesignTimeBuild/.dtbcache.v2
+.vs/apiOperadores/v17/.futdcache.v1
+.vs/apiOperadores/v17/.suo
+.vs/ProjectEvaluation/apioperadores.metadata.v2
+bin/Debug/net6.0/apiOperadores.dll
+bin/Debug/net6.0/apiOperadores.pdb
+obj/staticwebassets.pack.sentinel
+obj/Debug/net6.0/apiOperadores.csproj.CoreCompileInputs.cache
+obj/Debug/net6.0/apiOperadores.pdb
+obj/Debug/net6.0/ref/apiOperadores.dll
+obj/Debug/net6.0/refint/apiOperadores.dll
